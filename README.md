@@ -12,7 +12,7 @@ Implementing a momentum trading strategy and testing to see if it has the potent
 * 데이터셋은 Quotemedia에서 주식 종가를 set을 활용했다.
 
 ## Project1 - Jupyter Notebook
-* https://nbviewer.jupyter.org/gist/Hwanyy/e822c9d2d22c8be64e24b9ca8a4b6e27
+* [Project 1. Trading with Momentum](https://nbviewer.jupyter.org/gist/Hwanyy/e822c9d2d22c8be64e24b9ca8a4b6e27)
 
 ## 사용된 라이브러리들과 version (Dependencies)
-* 
+* [requirements.txt](https://github.com/Hwanyy/Ai-for-Trading-Project-1-Trading-with-Momentum/blob/main/requirements.txt)
