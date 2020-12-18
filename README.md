@@ -11,6 +11,15 @@
 
 * 데이터셋은 Quotemedia에서 주식 종가를 set을 활용했다.
 
+## 내용
+* Pandas 라이브러리를 활용하여 일별 종가를 월별 종가로 resampling 한다.
+
+* 다음과 같은 Python 작업을 수행:
+  - 주어진 기간에서 Best performer와 Worst Performer 종목을 추려낸다.
+  - 주어진 기간에서 Best 종목을 매수하고 Worst 종목을 공매도한 샘플 포트폴리오의 수익률을 계산한다.
+
+* T-test 검정과 p-value를 계산하여, 샘플 포트폴리오 수익률이 알파인지 아니면 단순한 무작위 기회에 따른 수익률인지 검정한다.
+
 ## Project1 - Jupyter Notebook
 * [Project 1. Trading with Momentum](https://nbviewer.jupyter.org/gist/Hwanyy/e822c9d2d22c8be64e24b9ca8a4b6e27)
 
